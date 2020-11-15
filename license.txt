@@ -1,0 +1,6 @@
+Cara install 
+
+1. klik kanan file lalu ekstrak file ke htdocs
+2. masuk ke phpmyadmin lalu buat database perpustakaan
+3. klik database perpustkaan lalu import database yang ada di folder 
+4. enjoy your program
